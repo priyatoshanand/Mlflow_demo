@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_demo/mlruns/0/87e1ce1a55df4343a1cdcbef597d6514/artifacts
+end_time: 1694679354302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87e1ce1a55df4343a1cdcbef597d6514
+run_name: entertaining-fox-204
+run_uuid: 87e1ce1a55df4343a1cdcbef597d6514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694679349231
+status: 3
+tags: []
+user_id: T470s

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_demo/mlruns/0/5b2058d05b39474fbbbf29b5b9b45d3f/artifacts
+end_time: 1694679307897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b2058d05b39474fbbbf29b5b9b45d3f
+run_name: agreeable-wasp-912
+run_uuid: 5b2058d05b39474fbbbf29b5b9b45d3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694679302582
+status: 3
+tags: []
+user_id: T470s

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_demo/mlruns/0/4e8fef811bc34b20bf643f050d7c7795/artifacts
+end_time: 1694679628803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e8fef811bc34b20bf643f050d7c7795
+run_name: hilarious-rook-668
+run_uuid: 4e8fef811bc34b20bf643f050d7c7795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694679614117
+status: 3
+tags: []
+user_id: T470s
